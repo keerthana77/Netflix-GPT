@@ -1,6 +1,8 @@
 # Netflix GPT
  - created the app using create-react-app
  - configured tailwincss
+ - Header
+ - Login 
 
 
  # Features
